@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Main_PCB.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main_PCB.SchDoc|Designator=U_BlockDiagram|SchDesignator=U_BlockDiagram|FileName=BlockDiagram.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BlockDiagram.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BlockDiagram.SchDoc|Designator=U_BlockPowerSupply|SchDesignator=U_BlockPowerSupply|FileName=BlockPowerSupply.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=BlockPowerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

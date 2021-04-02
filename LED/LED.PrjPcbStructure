@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=LED.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=LED.SchDoc|Designator=U_BlockDiagram|SchDesignator=U_BlockDiagram|FileName=BlockDiagram.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BlockDiagram.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BlockDiagram.SchDoc|Designator=U_BlockLED|SchDesignator=U_BlockLED|FileName=Block_LED.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Block_LED.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
