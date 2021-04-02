@@ -1,3 +1,11 @@
 Record=TopLevelDocument|FileName=Main_PCB.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=Main_PCB.SchDoc|Designator=U_BlockDiagram|SchDesignator=U_BlockDiagram|FileName=BlockDiagram.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BlockDiagram.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=BlockDiagram.SchDoc|Designator=U_BlockPowerSupply|SchDesignator=U_BlockPowerSupply|FileName=BlockPowerSupply.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=BlockPowerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Main_PCB.SchDoc|FileName=BlockCalculPoids.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Main_PCB.SchDoc|FileName=BlockConvDA_LED.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Main_PCB.SchDoc|FileName=BlockConvDA_Mot.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Main_PCB.SchDoc|FileName=BlockMemoire.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Main_PCB.SchDoc|FileName=BlockMesIp.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Main_PCB.SchDoc|FileName=BlockMesLED.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Main_PCB.SchDoc|FileName=BlockMesPos.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Main_PCB.SchDoc|FileName=BlockMesureMotAD.SchDoc|SheetNumber=9
