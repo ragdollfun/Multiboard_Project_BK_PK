@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=PhotoDiode.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=PhotoDiode.SchDoc|Designator=U_BlockDiagram|SchDesignator=U_BlockDiagram|FileName=BlockDiagram.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BlockDiagram.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BlockDiagram.SchDoc|Designator=U_Block_PhotoDiode|SchDesignator=U_Block_PhotoDiode|FileName=Block_PhotoDiode.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Block_PhotoDiode.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
