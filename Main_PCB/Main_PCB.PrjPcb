@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for Main_PCB
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 Template=C:\Users\Public\Documents\Altium\AD21\Templates\iAi_TemplateProject_4L.PrjPcb
@@ -297,24 +297,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=ProjectVersionForDoc
-Value=1_0_0
+Name=ProjectAuthor
+Value=BKO + PKI
 
 [Parameter2]
-Name=ProjectVersion
-Value=1.0.0
+Name=ProjectiAiTitle
+Value=Balance
 
 [Parameter3]
 Name=ProjectNumber
 Value=N° SGX
 
 [Parameter4]
-Name=ProjectiAiTitle
-Value=Balance
+Name=ProjectVersion
+Value=1.0.0
 
 [Parameter5]
-Name=ProjectAuthor
-Value=BKO + PKI
+Name=ProjectVersionForDoc
+Value=1_0_0
 
 [Configuration1]
 Name=Sources
@@ -363,7 +363,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Main_PCB
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
