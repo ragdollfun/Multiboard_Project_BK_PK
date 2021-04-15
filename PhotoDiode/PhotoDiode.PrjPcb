@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for PhotoDiode
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 Template=C:\Users\Public\Documents\Altium\AD21\Templates\iAi_TemplateProject_4L.PrjPcb
@@ -244,7 +244,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for PhotoDiode
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
