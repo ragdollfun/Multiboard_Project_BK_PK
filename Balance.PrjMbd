@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=45DF9AD1-FDA8-4F0D-ADCE-BC790D0858DC
+VaultGUID=3A424D5D-B61C-4BBB-84E6-CE897581846A
+ReleaseVaultName=HEIG-VD (Haute Ecole d'ingénierie et de Gestion du Canton de Vaud)
+ItemGUID=45DF9AD1-FDA8-4F0D-ADCE-BC790D0858DC
 IncludeDesignInRelease=0
 
 [Preferences]
