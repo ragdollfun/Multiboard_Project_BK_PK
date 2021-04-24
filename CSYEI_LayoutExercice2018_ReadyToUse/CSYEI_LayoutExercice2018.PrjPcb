@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=9D79FF46-7D1F-44A3-9594-A82AC6B7AF64
+VaultGUID=3A424D5D-B61C-4BBB-84E6-CE897581846A
+ReleaseVaultName=HEIG-VD (Haute Ecole d'ingénierie et de Gestion du Canton de Vaud)
+ItemGUID=9D79FF46-7D1F-44A3-9594-A82AC6B7AF64
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -276,7 +279,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BFBVTGVW
 
 [Document15]
 DocumentPath=Balance.SchLib
