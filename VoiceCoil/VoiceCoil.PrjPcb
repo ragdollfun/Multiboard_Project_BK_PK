@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=CF2A2878-8C67-42EA-8326-9CD7B513670A
+VaultGUID=3A424D5D-B61C-4BBB-84E6-CE897581846A
+ReleaseVaultName=HEIG-VD (Haute Ecole d'ingénierie et de Gestion du Canton de Vaud)
+ItemGUID=CF2A2878-8C67-42EA-8326-9CD7B513670A
 Template=C:\Users\Public\Documents\Altium\AD21\Templates\iAi_TemplateProject_4L.PrjPcb
 IncludeDesignInRelease=0
 
